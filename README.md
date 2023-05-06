@@ -25,3 +25,13 @@ More into Compute
 |1|How to choose the right compute option for us in Google Cloud ?|Compute |[Link](https://medium.com/@techwithkrithi/how-to-choose-the-right-compute-option-for-us-in-google-cloud-73718ff5e03) |
 |2|Compute Products in GCP|Compute |[Link](https://medium.com/@techwithkrithi/compute-products-in-gcp-49c6142596cf) |
 |3|Compute Products| Compute|[Link](https://medium.com/@techwithkrithi/compute-products-ff8ea1c2a467) |
+
+
+Storage
+
+|S.NO| Title| Description | Link |
+|-----|----------|----------|----------|
+|1|Cloud Filestore |monitor, manage, backup and restore file systems. |[Link](https://medium.com/@techwithkrithi/cloud-filestore-storage-f6cc18a6a53b) |
+|2|Cloud Storage |fully-managed object storage service that allows users to store and retrieve any type of data|[Link](https://medium.com/@techwithkrithi/cloud-storage-in-gcp-bfc0b49f5c5f) |
+|3|App Engine |Managed App platform|[Link](https://medium.com/@techwithkrithi/app-engine-c50bad817069) |
+|4|Cloud Run |Serverless for containerized applications|[Link](https://medium.com/@techwithkrithi/cloud-run-bb24dfd4c1d2) |
