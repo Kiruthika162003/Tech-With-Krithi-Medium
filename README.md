@@ -52,3 +52,12 @@ AI/ML
 |8|Contact Center AI|to manage customer interactions in a contact center|[Link](https://medium.com/@techwithkrithi/contact-center-ai-f8d5ac20c6a8) |
 |9|Speech-To-Text|Convert audio to text|[Link](https://medium.com/@techwithkrithi/speech-to-text-bcc352dc491a) |
 |10|Text to Speech|Convert text to audio|[Link](https://medium.com/@techwithkrithi/text-to-speech-in-gcp-805ea9efec66) |
+|11|Vertex AI Data Labeling | specific tool within the Vertex AI platform that focuses on data labeling |[Link](https://medium.com/@techwithkrithi/vertex-ai-data-labeling-f0d9ea341d08) |
+|12|Vertex AI Workbench |Jupyter-based environment for Data Science|[Link](https://medium.com/@techwithkrithi/vertex-ai-workbench-7770e1ff8fec) |
+|13(a)|Vertex AI Edge Manager |Deploy monitor edge inferences|[Link](https://medium.com/@techwithkrithi/vertex-ai-edge-manager-df16cd77b6e9) |
+|13(b)|Vertex AI Edge Manager |Deployment in Edge devices made easy|[Link](https://medium.com/@techwithkrithi/vertex-ai-edge-manager-623ba6d9970e) |
+|14|Vertex AI Feature Store|Managed ML feature repository|[Link](https://medium.com/@techwithkrithi/vertex-ai-feature-store-6b1fb6558c22) |
+|15|Vertex AI Matching Engine|simplifies the process of creating recommendation systems|[Link](https://medium.com/@techwithkrithi/vertex-ai-matching-engine-68314c6ca773) |
+|16|Vertex AI Model Monitoring|Monitor models|[Link](https://medium.com/@techwithkrithi/vertex-ai-model-monitoring-a0d193f759be) |
+|17|Vertex AI Pipelines|Hosted ML workflows|[Link](https://medium.com/@techwithkrithi/vertex-ai-pipelines-b39aa8fca8ea) |
+|18|Talent Solutions|Job search with ML|[Link](https://medium.com/@techwithkrithi/talent-solutions-in-gcp-e50269a27d6d) |
