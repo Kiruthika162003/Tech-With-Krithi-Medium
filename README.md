@@ -34,4 +34,22 @@ Storage
 |1|Cloud Filestore |monitor, manage, backup and restore file systems. |[Link](https://medium.com/@techwithkrithi/cloud-filestore-storage-f6cc18a6a53b) |
 |2|Cloud Storage |fully-managed object storage service that allows users to store and retrieve any type of data|[Link](https://medium.com/@techwithkrithi/cloud-storage-in-gcp-bfc0b49f5c5f) |
 |3|Local SSD |temporary storage option that is directly connected to your virtual machine|[Link](https://medium.com/@techwithkrithi/local-ssd-and-types-of-storage-in-gcp-d7549db91ca2) |
-|4|Persistent disk |Block storage for VMs -allowing you to easily expand or shrink your storage needs as your applications grow or change|[Link](https://medium.com/@techwithkrithi/persistent-disk-in-gcp-18029e195350) |
+|4|Persistent disk |Block storage for VMs -allowing you to easily expand or shrink your storage needs as your applications grow or change
+|[Link](https://medium.com/@techwithkrithi/persistent-disk-in-gcp-18029e195350) |
+
+
+
+AI/ML
+
+|S.NO| Title| Description | Link |
+|-----|----------|----------|----------|
+|1|AutoML |Custom Low code Models |[Link](https://medium.com/@techwithkrithi/automl-333925c264d) |
+|2|Dialogflow |To Create conversational interfaces|[Link](https://medium.com/@techwithkrithi/dialogflow-fb40e31f12b2) |
+|3|Vertex AI |Managed platform for ML|[Link](https://medium.com/@techwithkrithi/vertex-ai-2a2395201c17) |
+|4|Document AI |to analyze and extract insights and information from documents|[Link](https://medium.com/@techwithkrithi/document-ai-in-gcp-1d157f8893c1) |
+|5|Cloud Translation|Language detection and translation|[Link](https://medium.com/@techwithkrithi/cloud-translation-caf594955f03) |
+|6|Cloud TPU|Hardware acceleration for ML|[Link](https://medium.com/@techwithkrithi/cloud-tpu-b620bb233bc3) |
+|7|Cloud Vision|Image recognition and classification|[Link](https://medium.com/@techwithkrithi/cloud-vision-4f61bc76e8be) |
+|8|Contact Center AI|to manage customer interactions in a contact center|[Link](https://medium.com/@techwithkrithi/contact-center-ai-f8d5ac20c6a8) |
+|9|Speech-To-Text|Convert audio to text|[Link](https://medium.com/@techwithkrithi/speech-to-text-bcc352dc491a) |
+|10|Text to Speech|Convert text to audio|[Link](https://medium.com/@techwithkrithi/text-to-speech-in-gcp-805ea9efec66) |
