@@ -34,5 +34,4 @@ Storage
 |1|Cloud Filestore |monitor, manage, backup and restore file systems. |[Link](https://medium.com/@techwithkrithi/cloud-filestore-storage-f6cc18a6a53b) |
 |2|Cloud Storage |fully-managed object storage service that allows users to store and retrieve any type of data|[Link](https://medium.com/@techwithkrithi/cloud-storage-in-gcp-bfc0b49f5c5f) |
 |3|Local SSD |temporary storage option that is directly connected to your virtual machine|[Link](https://medium.com/@techwithkrithi/local-ssd-and-types-of-storage-in-gcp-d7549db91ca2) |
-|4|Persistent disk |Block storage for VMs -allowing you to easily expand or shrink your storage needs as your applications grow or change
-|[Link](https://medium.com/@techwithkrithi/persistent-disk-in-gcp-18029e195350) |
+|4|Persistent disk |Block storage for VMs -allowing you to easily expand or shrink your storage needs as your applications grow or change|[Link](https://medium.com/@techwithkrithi/persistent-disk-in-gcp-18029e195350) |
