@@ -63,4 +63,6 @@ AI/ML
 |18|Talent Solutions|Job search with ML|[Link](https://medium.com/@techwithkrithi/talent-solutions-in-gcp-e50269a27d6d) |
 |19|Vertex AI TensorBoard|To visualize and analyse the performance ML models using Tensorflow in vertex AI|[Link](https://medium.com/@techwithkrithi/vertex-ai-tensorboard-d8272e77a7db) |
 |20|Video Intelligence API|Cloud-based video analysis|[Link](https://medium.com/@techwithkrithi/video-intelligence-api-7276668a4fd3) |
+|21|Deep Learning Containers|Preconfigured containers for deep learning|[Link](https://medium.com/@techwithkrithi/deep-learning-containers-a688db68ae8) |
+
 
