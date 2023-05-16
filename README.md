@@ -61,3 +61,4 @@ AI/ML
 |16|Vertex AI Model Monitoring|Monitor models|[Link](https://medium.com/@techwithkrithi/vertex-ai-model-monitoring-a0d193f759be) |
 |17|Vertex AI Pipelines|Hosted ML workflows|[Link](https://medium.com/@techwithkrithi/vertex-ai-pipelines-b39aa8fca8ea) |
 |18|Talent Solutions|Job search with ML|[Link](https://medium.com/@techwithkrithi/talent-solutions-in-gcp-e50269a27d6d) |
+|19|Vertex AI TensorBoard|To visualize and analyse the performance ML models using Tensorflow in vertex AI|[Link](https://medium.com/@techwithkrithi/vertex-ai-tensorboard-d8272e77a7db) |
