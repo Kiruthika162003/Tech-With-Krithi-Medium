@@ -65,4 +65,3 @@ AI/ML
 |20|Video Intelligence API|Cloud-based video analysis|[Link](https://medium.com/@techwithkrithi/video-intelligence-api-7276668a4fd3) |
 |21|Deep Learning Containers|Preconfigured containers for deep learning|[Link](https://medium.com/@techwithkrithi/deep-learning-containers-a688db68ae8) |
 
-
