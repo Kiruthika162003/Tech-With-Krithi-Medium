@@ -67,3 +67,6 @@ AI/ML
 |22|Vertex ML Metadata|Artifact, lineage, and execution tracking|[Link](https://medium.com/@techwithkrithi/vertex-ml-metadata-dd0d5e889311) |
 |23|Vertex Explainable AI|Understand ML model predictions|[Link](https://medium.com/@techwithkrithi/vertex-explainable-ai-c0377733f5dd) |
 |24|Deep Learning VM in GCP|pre-configured VM optimized for deep learning|[Link](https://medium.com/@techwithkrithi/deep-learning-vm-in-gcp-dea8d23377ac) |
+|25|Vertex AI Vizer|Hyperparameter tuning tool|[Link](https://medium.com/@techwithkrithi/vertex-ai-vizer-1a8ab0fcc3a4) |
+|26|Vertex AI Training|Automates model taining|[Link](https://medium.com/@techwithkrithi/vertex-ai-training-482da67338b7) |
+|27|Vertex AI Predictions|Personalized AI-powered recommendations|[Link](https://medium.com/@techwithkrithi/vertex-ai-predictions-aa539384b7dc) |
