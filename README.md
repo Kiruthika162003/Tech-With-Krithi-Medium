@@ -70,3 +70,4 @@ AI/ML
 |25|Vertex AI Vizer|Hyperparameter tuning tool|[Link](https://medium.com/@techwithkrithi/vertex-ai-vizer-1a8ab0fcc3a4) |
 |26|Vertex AI Training|Automates model taining|[Link](https://medium.com/@techwithkrithi/vertex-ai-training-482da67338b7) |
 |27|Vertex AI Predictions|Personalized AI-powered recommendations|[Link](https://medium.com/@techwithkrithi/vertex-ai-predictions-aa539384b7dc) |
+|28|Video Intelligence API|analyze videos and extracting valuable informatioon|[Link] (https://medium.com/@techwithkrithi/video-intelligence-api-8ff684fd07ab)|
