@@ -72,3 +72,4 @@ AI/ML
 |27|Vertex AI Predictions|Personalized AI-powered recommendations|[Link](https://medium.com/@techwithkrithi/vertex-ai-predictions-aa539384b7dc) |
 |28|Video Intelligence API|analyze videos and extracting valuable information|[Link](https://medium.com/@techwithkrithi/video-intelligence-api-8ff684fd07ab)|
 |29|Vertex AI Data Labelling|Easy way to add labels to the data|[Link](https://medium.com/@techwithkrithi/vertex-ai-data-labelling-fbbfcd6244b0)|
+|30|Deep Learning VM Images|Software and tools already set up for Deep Learning|[Link](https://medium.com/@techwithkrithi/deep-learning-vm-images-e08dc0d45b8b)|
