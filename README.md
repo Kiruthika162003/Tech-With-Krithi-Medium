@@ -73,3 +73,9 @@ AI/ML
 |28|Video Intelligence API|analyze videos and extracting valuable information|[Link](https://medium.com/@techwithkrithi/video-intelligence-api-8ff684fd07ab)|
 |29|Vertex AI Data Labelling|Easy way to add labels to the data|[Link](https://medium.com/@techwithkrithi/vertex-ai-data-labelling-fbbfcd6244b0)|
 |30|Deep Learning VM Images|Software and tools already set up for Deep Learning|[Link](https://medium.com/@techwithkrithi/deep-learning-vm-images-e08dc0d45b8b)|
+
+Databases
+|S.NO| Title| Description | Link |
+|----|----------|----------|----------|
+|1| Cloud SQL |Managed MySQL, PostgreSQL, SQL Server |[Link](https://medium.com/@techwithkrithi/cloud-sql-8779d0048c76) |
+
