@@ -78,4 +78,5 @@ Databases
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Cloud SQL |Managed MySQL, PostgreSQL, SQL Server |[Link](https://medium.com/@techwithkrithi/cloud-sql-8779d0048c76) |
+|2| Cloud Bigtable |Fully managed perabyte scaled NoSQL Database|[Link](https://medium.com/@techwithkrithi/cloud-bigtable-b017e5d0708e) |
 
