@@ -79,4 +79,4 @@ Databases
 |----|----------|----------|----------|
 |1| Cloud SQL |Managed MySQL, PostgreSQL, SQL Server |[Link](https://medium.com/@techwithkrithi/cloud-sql-8779d0048c76) |
 |2| Cloud Bigtable |Fully managed perabyte scaled NoSQL Database|[Link](https://medium.com/@techwithkrithi/cloud-bigtable-b017e5d0708e) |
-
+|3| Cloud Spanner |Horizontally scaleable relational database|[Link](https://medium.com/@techwithkrithi/cloud-spanner-f8e296ce4713) |
