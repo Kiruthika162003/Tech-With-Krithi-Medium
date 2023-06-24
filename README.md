@@ -80,3 +80,6 @@ Databases
 |1| Cloud SQL |Managed MySQL, PostgreSQL, SQL Server |[Link](https://medium.com/@techwithkrithi/cloud-sql-8779d0048c76) |
 |2| Cloud Bigtable |Fully managed perabyte scaled NoSQL Database|[Link](https://medium.com/@techwithkrithi/cloud-bigtable-b017e5d0708e) |
 |3| Cloud Spanner |Horizontally scaleable relational database|[Link](https://medium.com/@techwithkrithi/cloud-spanner-f8e296ce4713) |
+|4| Cloud Firestore|NoSQL, Real-time, Scalable, Cloud-based|[Link](https://medium.com/@techwithkrithi/cloud-firestore-7f89f2128091) |
+|5|Cloud Memorystore |High-speed in-memory data caching service.|[Link](https://medium.com/@techwithkrithi/cloud-memorystore-444dcafb6810) |
+|6|Cloud SQL Insights|Performance monitoring and optimization tool for Cloud SQL databases|[Link](https://medium.com/@techwithkrithi/cloud-sql-insights-1567acce2cc7) |
