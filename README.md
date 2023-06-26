@@ -83,3 +83,5 @@ Databases
 |4| Cloud Firestore|NoSQL, Real-time, Scalable, Cloud-based|[Link](https://medium.com/@techwithkrithi/cloud-firestore-7f89f2128091) |
 |5|Cloud Memorystore |High-speed in-memory data caching service.|[Link](https://medium.com/@techwithkrithi/cloud-memorystore-444dcafb6810) |
 |6|Cloud SQL Insights|Performance monitoring and optimization tool for Cloud SQL databases|[Link](https://medium.com/@techwithkrithi/cloud-sql-insights-1567acce2cc7) |
+|7|AlloyDB|Fully managed, PostgreSQL-compatible database service|[Link](https://medium.com/@techwithkrithi/alloydb-3f2781ed019) |
+|8|Database Migration Service|Migrate to Cloud SQL|[Link](https://medium.com/@techwithkrithi/database-migration-service-5e9c10fd3fae) |
