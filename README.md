@@ -85,3 +85,16 @@ Databases
 |6|Cloud SQL Insights|Performance monitoring and optimization tool for Cloud SQL databases|[Link](https://medium.com/@techwithkrithi/cloud-sql-insights-1567acce2cc7) |
 |7|AlloyDB|Fully managed, PostgreSQL-compatible database service|[Link](https://medium.com/@techwithkrithi/alloydb-3f2781ed019) |
 |8|Database Migration Service|Migrate to Cloud SQL|[Link](https://medium.com/@techwithkrithi/database-migration-service-5e9c10fd3fae) |
+
+
+Data Analytics
+|S.NO| Title| Description | Link |
+|----|----------|----------|----------|
+|1| Public Datasets | Hosted data in BigQuery |[Link](https://medium.com/@techwithkrithi/public-datasets-2097a8da4eec) |
+|2| Dataprep by Trifacta | Visual data wrangling |[Link](https://medium.com/@techwithkrithi/dataprep-by-trifacta-c79d4cc5f2bf) |
+|3| Dataplex | Centrally manage/monitor/govern data |[Link](https://medium.com/@techwithkrithi/dataplex-3e5ca4625a72) |
+|4| Dataflow | Stream/batch data processing |[Link](https://medium.com/@techwithkrithi/dataflow-e6cb54e70bd9) |
+|5| Data Studio | Collaborative data exploration/dashboarding |[Link](https://medium.com/@techwithkrithi/data-studio-d37b2f99009d) |
+|6| Data Catalog |Metadata management service  |[Link](https://medium.com/@techwithkrithi/data-catalog-8c6a7aede49d) |
+|7| Connected Sheets |Spreadsheet interface for (big) data |[Link](https://medium.com/@techwithkrithi/connected-sheets-276ecdf49d36) |
+|8| Cloud Data Fusion| Graphically manage data pipelines  |[Link](https://medium.com/@techwithkrithi/cloud-data-fusion-11dc0e5ec63c) |
