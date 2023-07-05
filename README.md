@@ -98,3 +98,4 @@ Data Analytics
 |6| Data Catalog |Metadata management service  |[Link](https://medium.com/@techwithkrithi/data-catalog-8c6a7aede49d) |
 |7| Connected Sheets |Spreadsheet interface for (big) data |[Link](https://medium.com/@techwithkrithi/connected-sheets-276ecdf49d36) |
 |8| Cloud Data Fusion| Graphically manage data pipelines  |[Link](https://medium.com/@techwithkrithi/cloud-data-fusion-11dc0e5ec63c) |
+|9|Cloud Composer| Managed workflow orchestration service |[Link](https://medium.com/@techwithkrithi/cloud-composer-4067cbb4d4af) |
