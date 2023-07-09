@@ -101,3 +101,4 @@ Data Analytics
 |9|Cloud Composer| Managed workflow orchestration service |[Link](https://medium.com/@techwithkrithi/cloud-composer-4067cbb4d4af) |
 |10|BigQuery ML|BigQuery model training/serving |[Link](https://medium.com/@techwithkrithi/bigquery-ml-41a770206dda) |
 |11|BigQuery GIS|BigQuery geospatial functions/support |[Link](https://medium.com/@techwithkrithi/bigquery-gis-63688347893c) |
+|12|BigQuery DTS|Automated data ingestion service |[Link](https://medium.com/@techwithkrithi/bigquery-dts-580bc7cab571) |
