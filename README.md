@@ -102,3 +102,4 @@ Data Analytics
 |10|BigQuery ML|BigQuery model training/serving |[Link](https://medium.com/@techwithkrithi/bigquery-ml-41a770206dda) |
 |11|BigQuery GIS|BigQuery geospatial functions/support |[Link](https://medium.com/@techwithkrithi/bigquery-gis-63688347893c) |
 |12|BigQuery DTS|Automated data ingestion service |[Link](https://medium.com/@techwithkrithi/bigquery-dts-580bc7cab571) |
+|13|BigQuery BI Engine|In-memory analytics engine|[Link](https://medium.com/p/11b5e4021a75) |
