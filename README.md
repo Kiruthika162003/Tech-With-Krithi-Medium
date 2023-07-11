@@ -104,3 +104,8 @@ Data Analytics
 |12|BigQuery DTS|Automated data ingestion service |[Link](https://medium.com/@techwithkrithi/bigquery-dts-580bc7cab571) |
 |13|BigQuery BI Engine|In-memory analytics engine|[Link](https://medium.com/p/11b5e4021a75) |
 |14|BigQuery|Data warehouse/analytics|[Link](https://medium.com/@techwithkrithi/bigquery-e3a639f69506) |
+
+Developer Tools
+|S.NO| Title| Description | Link |
+|----|----------|----------|----------|
+|1| Cloud Tools for Visual Studio |Visual Studio Google Cloud tools |[Link](https://medium.com/@techwithkrithi/cloud-tools-for-visual-studio-d63f18e4e702) |
