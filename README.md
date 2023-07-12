@@ -109,3 +109,4 @@ Developer Tools
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Cloud Tools for Visual Studio |Visual Studio Google Cloud tools |[Link](https://medium.com/@techwithkrithi/cloud-tools-for-visual-studio-d63f18e4e702) |
+|2| Cloud Workstations |Developer optimized work VM|[Link](https://medium.com/@techwithkrithi/cloud-workstations-3279ff01b02a) |
