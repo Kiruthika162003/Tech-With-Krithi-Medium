@@ -111,3 +111,4 @@ Developer Tools
 |1| Cloud Tools for Visual Studio |Visual Studio Google Cloud tools |[Link](https://medium.com/@techwithkrithi/cloud-tools-for-visual-studio-d63f18e4e702) |
 |2| Cloud Workstations |Developer optimized work VM|[Link](https://medium.com/@techwithkrithi/cloud-workstations-3279ff01b02a) |
 |3| Cloud Tools for PowerShell|Developer powershell tools|[Link](https://medium.com/@techwithkrithi/cloud-tools-for-powershell-316802e82d45) |
+|4| Cloud Shell|Browser-based terminal|[Link](https://medium.com/@techwithkrithi/cloud-shell-7b46a42d3e25) |
