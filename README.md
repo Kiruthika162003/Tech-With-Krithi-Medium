@@ -113,3 +113,4 @@ Developer Tools
 |3| Cloud Tools for PowerShell|Developer powershell tools|[Link](https://medium.com/@techwithkrithi/cloud-tools-for-powershell-316802e82d45) |
 |4| Cloud Shell|Browser-based terminal|[Link](https://medium.com/@techwithkrithi/cloud-shell-7b46a42d3e25) |
 |5|Cloud SDK|Google Cloud CLI|[Link](https://medium.com/@techwithkrithi/cloud-sdk-418cef06249d) |
+|6|Cloud Code|Google Cloud IDE extensions|[Link](https://medium.com/@techwithkrithi/cloud-code-ab7d8ea3fb7d) |
