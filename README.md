@@ -118,3 +118,8 @@ Developer Tools
 |8|App Engine Plugins |Gradle/Maven App Engine plugin|[Link](https://medium.com/@techwithkrithi/app-engine-plugins-a4a05be753b7) |
 |9|Cloud Code for VS Code |VS Code Google Cloud tools|[Link](https://medium.com/@techwithkrithi) |
 |10| Cloud Tools for Eclipse|Eclipse GCP tools|[Link](https://medium.com/@techwithkrithi/cloud-tools-for-eclipse-b90af953f673) |
+
+Operations and Monitoring
+|S.NO| Title| Description | Link |
+|----|----------|----------|----------|
+|1| Cloud Logging | Centralized logging |[Link](https://medium.com/@techwithkrithi/cloud-logging-54d30f83e0bb) |
