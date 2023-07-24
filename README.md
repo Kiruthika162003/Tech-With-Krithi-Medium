@@ -123,3 +123,4 @@ Operations and Monitoring
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Cloud Logging | Centralized logging |[Link](https://medium.com/@techwithkrithi/cloud-logging-54d30f83e0bb) |
+|2| Cloud Monitoring | Infrastructure and application monitoring |[Link](https://medium.com/@techwithkrithi/cloud-monitoring-7340fde85795) |
