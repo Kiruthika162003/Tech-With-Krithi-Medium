@@ -131,4 +131,4 @@ Operations and Monitoring
 Retail
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
-|1| Retail Recommendations AI |Create custom recommendations |[Link]() |
+|1| Retail Recommendations AI |Create custom recommendations |[Link](https://medium.com/@techwithkrithi/recommendations-ai-4235c5a178ac) |
