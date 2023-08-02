@@ -132,3 +132,4 @@ Retail
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Retail Recommendations AI |Create custom recommendations |[Link](https://medium.com/@techwithkrithi/recommendations-ai-4235c5a178ac) |
+|2| Vision Product Search |Visual search for products |[Link](https://medium.com/@techwithkrithi/vision-product-search-eec04751fea5) |
