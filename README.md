@@ -133,3 +133,4 @@ Retail
 |----|----------|----------|----------|
 |1| Retail Recommendations AI |Create custom recommendations |[Link](https://medium.com/@techwithkrithi/recommendations-ai-4235c5a178ac) |
 |2| Vision Product Search |Visual search for products |[Link](https://medium.com/@techwithkrithi/vision-product-search-eec04751fea5) |
+|3| Visual Inspection AI |Train/deploy models to detect defects |[Link](https://medium.com/@techwithkrithi/visual-inspection-ai-c5411f4a6b3d) |
