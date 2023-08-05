@@ -1,4 +1,4 @@
-GCP BLOGS
+![image](https://github.com/Kiruthika162003/Tech-With-Krithi-Medium/assets/89388434/e4b3cede-618c-4ad7-9e9a-5ad4d7972393)GCP BLOGS
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Getting Started with GCP | GCP |[Link](https://medium.com/@techwithkrithi/getting-started-with-gcp-67aa910115af) |
@@ -134,3 +134,8 @@ Retail
 |1| Retail Recommendations AI |Create custom recommendations |[Link](https://medium.com/@techwithkrithi/recommendations-ai-4235c5a178ac) |
 |2| Vision Product Search |Visual search for products |[Link](https://medium.com/@techwithkrithi/vision-product-search-eec04751fea5) |
 |3| Visual Inspection AI |Train/deploy models to detect defects |[Link](https://medium.com/@techwithkrithi/visual-inspection-ai-c5411f4a6b3d) |
+
+Application Integration
+|S.NO| Title| Description | Link |
+|----|----------|----------|----------|
+|1| Cloud Scheduler  | Managed cron job service|[Link](https://medium.com/@techwithkrithi/cloud-scheduler-5372e08d3882) |
