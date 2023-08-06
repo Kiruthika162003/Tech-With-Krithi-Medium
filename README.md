@@ -1,4 +1,4 @@
-![image](https://github.com/Kiruthika162003/Tech-With-Krithi-Medium/assets/89388434/e4b3cede-618c-4ad7-9e9a-5ad4d7972393)GCP BLOGS
+GCP BLOGS
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Getting Started with GCP | GCP |[Link](https://medium.com/@techwithkrithi/getting-started-with-gcp-67aa910115af) |
