@@ -140,3 +140,4 @@ Application Integration
 |----|----------|----------|----------|
 |1| Cloud Scheduler  | Managed cron job service|[Link](https://medium.com/@techwithkrithi/cloud-scheduler-5372e08d3882) |
 |2|Cloud Tasks  | Asynchronous task execution|[Link](https://medium.com/@techwithkrithi/cloud-tasks-6e163e433833) |
+|3| Eventarc |Event-driven Cloud Run services |[Link](https://medium.com/@techwithkrithi/eventarc-238a888a257f) |
