@@ -135,9 +135,10 @@ Retail
 |2| Vision Product Search |Visual search for products |[Link](https://medium.com/@techwithkrithi/vision-product-search-eec04751fea5) |
 |3| Visual Inspection AI |Train/deploy models to detect defects |[Link](https://medium.com/@techwithkrithi/visual-inspection-ai-c5411f4a6b3d) |
 
-Application Integration
+Integration Services
 |S.NO| Title| Description | Link |
 |----|----------|----------|----------|
 |1| Cloud Scheduler  | Managed cron job service|[Link](https://medium.com/@techwithkrithi/cloud-scheduler-5372e08d3882) |
 |2|Cloud Tasks  | Asynchronous task execution|[Link](https://medium.com/@techwithkrithi/cloud-tasks-6e163e433833) |
 |3| Eventarc |Event-driven Cloud Run services |[Link](https://medium.com/@techwithkrithi/eventarc-238a888a257f) |
+|4| Application Integration |Enterprise application integrations |[Link](https://medium.com/@techwithkrithi/application-integration-7e4c9250cc1c) |
